@@ -1,6 +1,6 @@
 # Privacy Policy for Golden Square Puzzle
 
-Last updated: April 4th, 2024
+Last updated: April 4th, 2025
 
 ## Information Collection and Use
 
