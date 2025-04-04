@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+permalink: /privacy-policy/
+---
+
 # Privacy Policy for Golden Square Puzzle
 
 Last updated: April 4th, 2024
