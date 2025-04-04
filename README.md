@@ -44,3 +44,6 @@ We typically respond within 48 hours.
 
 ## Privacy Policy
 
+Our Privacy Policy explains what information we collect and how we use it.
+
+[Read our Privacy Policy](/goldensquarepuzzle-support/privacy-policy)
